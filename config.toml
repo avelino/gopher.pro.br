@@ -14,7 +14,7 @@ enableRobotsTXT = true
 	highlight="default"
 	# Shown in the home page
 	subtitle = "Exemplos, artigos e muito código"
-	brand = "gopher.pro.br"
+	brand = "Gopher Pro"
 	# CSS name for highlight.js
 	highlightjs = "default"
 	dateFormat = "2006-01-02"
