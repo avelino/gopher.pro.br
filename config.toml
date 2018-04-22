@@ -1,4 +1,4 @@
-baseurl = "https://gopher.pro.br/"
+baseurl = "https://gopher.pro.br"
 languageCode = "pt-br"
 defaultContentLanguage = "pt-br"
 title = "Golang grupo de estudos"
