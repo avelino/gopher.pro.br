@@ -13,12 +13,12 @@ enableRobotsTXT = true
 	locale = "pt-BR"
 	highlight="default"
 	# Shown in the home page
-	subtitle = "Exemplos, artigos e muito código"
+	subtitle = "Exemplos, artigos e muito código Go"
 	brand = "Gopher Pro"
 	# CSS name for highlight.js
 	highlightjs = "default"
 	dateFormat = "2006-01-02"
-	description = "Grupo de estudos de Golang, exemplos, artigos e muito código Go"
+	description = "Grupo de estudos de Golang, exemplos, vídeos, aulas, artigos e muito código. Uma comunidade aberta inclusiva e focada na linguagem de programação Go"
 
 [indexes]
 	category = "categorias"
