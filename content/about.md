@@ -13,7 +13,7 @@ title = "Sobre"
 ### Grupo de estudos
 - Todas as quintas-feiras as 22h00 um grupo programadores faz um hangout para estudar Go e bater papo os encontros e o tema da semana são combinados no #brazilian-go-studies.
 
-- Pagina no Facebook [https://www.facebook.com/gophers.br/](https://www.facebook.com/gophers.br/)
+- Pagina no Facebook [https://www.facebook.com/gopher.pro.br/](https://www.facebook.com/gopher.pro.br/)
 
 ### Aprenda mais
 - [Awesome-go](https://github.com/avelino/awesome-go) Uma lista de impressionantes frameworks, bibliotecas e software escritos em Go.
