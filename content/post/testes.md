@@ -1,15 +1,13 @@
 +++
 title = "Testes"
 date = "2017-01-31T22:18:41-02:00"
-description = "Todo arquivo de testes deve ter o sufixo `_test.go` para o `go test` (ferramenta do go pra executar testes) enxergar o arquivo e suas
-funções devem ter a assinatura `func Test...(t *testing.T)` para serem consideradas testes."
+description = "Todo arquivo de testes deve ter o sufixo `_test.go` para o `go test` (ferramenta do go pra executar testes) enxergar o arquivo e suas funções devem ter a assinatura `func Test...(t *testing.T)` para serem consideradas testes."
 tags = ["Golang"]
 +++
 
 # Testes
 
-Todo arquivo de testes deve ter o sufixo `_test.go` para o `go test` (ferramenta do go pra executar testes) enxergar o arquivo e suas
-funções devem ter a assinatura `func Test...(t *testing.T)` para serem consideradas testes.
+Todo arquivo de testes deve ter o sufixo `_test.go` para o `go test` (ferramenta do go pra executar testes) enxergar o arquivo e suas funções devem ter a assinatura `func Test...(t *testing.T)` para serem consideradas testes.
 
 ## Exemplo
 
