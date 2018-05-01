@@ -4,6 +4,7 @@ date = "2017-11-23T10:17:27-02:00"
 description = "Sem argumentos, Busca cotação do dólar no Banco Central."
 tags = ["Golang"]
 +++
+
 # Busca cotação do dolar
 
 Sem argumentos, Busca cotação do dólar no Banco Central.

@@ -4,6 +4,7 @@ date = "2016-11-11T17:00:21-05:00"
 description = "A `interface` básicamente é como se fosse um contrato as para funções que o recebem."
 tags = ["Golang"]
 +++
+
 # interface
 
 A `interface` básicamente é como se fosse um contrato as para funções que o recebem.

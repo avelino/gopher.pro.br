@@ -4,6 +4,7 @@ date = "2017-09-01T09:46:57-03:00"
 description = "Sem argumentos, comporta-se igual a $RANDOM. Apenas um argumento, número entre 0 e o valor fornecido. Com dois argumentos, número entre esses limites informados."
 tags = ["Golang"]
 +++
+
 # Gera um número aleatório
 
 Sem argumentos, comporta-se igual a $RANDOM. Apenas um argumento, número entre 0 e o valor fornecido. Com dois argumentos, número entre esses limites informados.

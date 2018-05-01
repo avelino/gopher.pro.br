@@ -4,6 +4,7 @@ date = "2016-11-11T17:00:21-05:00"
 description = "Dentro do pacote HTTP, Go fornece o método Get que permite facilmente sua utilização para consumo de requisições web."
 tags = ["Golang"]
 +++
+
 # http Uso do Get
 
 Dentro do pacote HTTP, Go fornece o método Get que permite facilmente sua utilização para consumo de requisições web.

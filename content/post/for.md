@@ -4,6 +4,7 @@ date = "2016-11-11T17:00:21-05:00"
 description = "Go só tem uma forma de loop, o for, mas em Go for é muito flexível."
 tags = ["Golang"]
 +++
+
 # for
 
 Go só tem uma forma de loop, o for, mas em Go for é muito flexível.

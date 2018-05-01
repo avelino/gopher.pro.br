@@ -4,6 +4,7 @@ date = "2016-11-11T17:00:21-05:00"
 description = "Go é fortemente tipada, isso significa que os tipos das variáveis são bem definidos e não podem mudar durante o programa."
 tags = ["Golang"]
 +++
+
 # Variáveis
 
 Go é fortemente tipada, isso significa que os tipos das variáveis são bem definidos e não podem mudar durante o programa.

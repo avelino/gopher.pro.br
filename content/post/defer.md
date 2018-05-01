@@ -4,6 +4,7 @@ date = "2016-11-11T17:00:21-05:00"
 description = "A clausula defer define que uma função deve ser chamada no fim da execução da rotina atual. Essa clausula é muito útil para por exemplo fechar arquivos abertos durante a execução da função."
 tags = ["Golang"]
 +++
+
 # defer
 
 A clausula defer define que uma função deve ser chamada no fim da execução da rotina atual. Essa clausula é muito útil para por exemplo fechar arquivos abertos durante a execução da função.

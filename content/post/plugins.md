@@ -4,6 +4,7 @@ date = "2017-02-05T10:48:13-02:00"
 description = "A possibilidade de criar plugins é um novo recurso da versão 1.8 que por enquanto funciona apenas no Linux. Um plugin basicamente é uma biblioteca externa que pode ser carregada dinamicamente, o uso é bem simples."
 tags = ["Golang"]
 +++
+
 # Plugins
 
 A possibilidade de criar plugins é um novo recurso da versão 1.8 que por enquanto funciona apenas no Linux. Um plugin basicamente é uma biblioteca externa que pode ser carregada dinamicamente, o uso é bem simples.

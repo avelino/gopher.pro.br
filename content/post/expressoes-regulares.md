@@ -4,6 +4,7 @@ date = "2016-11-11T16:32:08-02:00"
 description = "Um exemplo simples usando o package regexp para extrair informação de um texto."
 tags = ["Golang"]
 +++
+
 # Expressões Regulares
 
 Um exemplo simples usando o package regexp para extrair informação de um texto.

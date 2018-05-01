@@ -4,6 +4,7 @@ date = "2016-12-17T21:25:32-02:00"
 description = "Reflection permite obter informações sobre artefatos instanciados, é muito útil quando estamos trabalhando com interfaces."
 tags = ["Golang"]
 +++
+
 # Reflection
 
 Reflection permite obter informações sobre artefatos instanciados, é muito útil quando estamos trabalhando com interfaces.

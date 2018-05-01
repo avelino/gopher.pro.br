@@ -4,6 +4,7 @@ date = "2016-12-29T01:07:56-02:00"
 description = "Go através do pacote net provê interfaces de acesso a I/O, incluindo a pilha TCP/IP, UDP, resolução por nome de domínio e UNIX Sockets."
 tags = ["Golang"]
 +++
+
 # tcp Trabalhando com o protocolo tcp
 
 Go através do pacote net provê interfaces de acesso a I/O, incluindo a pilha TCP/IP, UDP, resolução por nome de domínio e UNIX Sockets.

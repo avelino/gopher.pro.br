@@ -4,6 +4,7 @@ date = "2017-03-12T19:14:36-03:00"
 description = "Data race é uma condição que ocorre quando duas threads tentam acessar a mesma area da memória ao mesmo tempo e pode causar vários problemas e resultados imprevisíveis."
 tags = ["Golang"]
 +++
+
 # Data Race
 
 Data race é uma condição que ocorre quando duas threads tentam acessar a mesma area da memória ao mesmo tempo e pode causar vários problemas e resultados imprevisíveis.

@@ -4,6 +4,7 @@ date = "2016-11-18T20:32:17-02:00"
 description = "Templates em Go são utilizados para gerar websites com conteúdo dinâmicos."
 tags = ["Golang"]
 +++
+
 # http Uso de Templates
 
 Templates em Go são utilizados para gerar websites com conteúdo dinâmicos.

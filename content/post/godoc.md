@@ -4,6 +4,7 @@ date = "2016-11-11T17:00:21-05:00"
 description = "Go tem uma ferramenta muito poderosa para visualizar documentação."
 tags = ["Golang"]
 +++
+
 # godoc
 
 Go tem uma ferramenta muito poderosa para visualizar documentação.

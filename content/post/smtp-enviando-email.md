@@ -4,6 +4,7 @@ date = "2017-03-15T15:34:45-03:00"
 description = "Com grande elegância e poucas linhas, golang através pacote net/smtp fornece as funções necessárias para disparo de e-mails."
 tags = ["Golang"]
 +++
+
 # smtp Enviando Email
 
 Com grande elegância e poucas linhas, golang através pacote net/smtp fornece as funções necessárias para disparo de e-mails.

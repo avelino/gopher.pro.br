@@ -4,6 +4,7 @@ date = "2017-09-14T22:50:05-03:00"
 description = "Calcular o CRC de uma string ou um arquivo é muito útil para garantir que algum dado não foi alterado. As funções CRC tem a vantagem de serem rápidas comparado com outras formas de hash."
 tags = ["Golang"]
 +++
+
 # CRC
 
 Calcular o CRC de uma string ou um arquivo é muito útil para garantir que algum dado não foi alterado. As funções CRC tem a vantagem de serem rápidas comparado com outras formas de hash.

@@ -4,6 +4,7 @@ date = "2018-04-26T21:55:50-03:00"
 description = "Este é um exemplo de como ler um feed RSS2 e interpretar o retorno para extrair os dados que queremos."
 tags = ["Golang"]
 +++
+
 # XML
 
 Este é um exemplo de como ler um feed RSS2 e interpretar o retorno para extrair os dados que queremos.

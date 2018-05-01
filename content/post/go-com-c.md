@@ -4,6 +4,7 @@ date = "2016-11-11T17:00:21-05:00"
 description = "Go é ótimo mas as vezes é necessário usar alguma biblioteca de algum legado ou integrar com algum sistema embarcado que precisa de C para descer até o hardware. Felizmente é muito fácil integrar Go com C."
 tags = ["Golang"]
 +++
+
 # Go com C
 
 Go é ótimo mas as vezes é necessário usar alguma biblioteca de algum legado ou integrar com algum sistema embarcado que precisa de C para descer até o hardware. Felizmente é muito fácil integrar Go com C.

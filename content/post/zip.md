@@ -4,6 +4,7 @@ date = "2017-10-19T22:26:05-02:00"
 description = "Como comprimir e descomprimir arquivos zip"
 tags = ["Golang"]
 +++
+
 # Zip
 
 Como comprimir e descomprimir arquivos zip

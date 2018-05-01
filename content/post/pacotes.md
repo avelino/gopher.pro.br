@@ -4,6 +4,7 @@ date = "2016-11-11T17:00:21-05:00"
 description = "Go é organizada em pacotes, os nomes dos pacotes fornecem um contexto e um espaço de nomes."
 tags = ["Golang"]
 +++
+
 # Pacotes
 
 Go é organizada em pacotes, os nomes dos pacotes fornecem um contexto e um espaço de nomes.

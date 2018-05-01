@@ -4,6 +4,7 @@ date = "2016-11-11T17:00:21-05:00"
 description = "Structs são coleções de campos."
 tags = ["Golang"]
 +++
+
 # Struct
 
 Structs são coleções de campos.

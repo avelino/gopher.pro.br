@@ -4,6 +4,7 @@ date = "2016-11-11T17:00:21-05:00"
 description = "Tratar sinais é uma boa pratica, dessa forma você pode finalizar seu programa graciosamente, liberando recursos, fechando banco de dados, etc. muito melhor que simplesmente fechar o programa. E tratar sinais do sistema operacional com Go é muito simples porque basicamente o sistema vai jogar o sinal em uma canal e então precisamos apenas ficar escutando."
 tags = ["Golang"]
 +++
+
 # Sinais
 
 Tratar sinais é uma boa pratica, dessa forma você pode finalizar seu programa graciosamente, liberando recursos, fechando banco de dados, etc. muito melhor que simplesmente fechar o programa. E tratar sinais do sistema operacional com Go é muito simples porque basicamente o sistema vai jogar o sinal em uma canal e então precisamos apenas ficar escutando.

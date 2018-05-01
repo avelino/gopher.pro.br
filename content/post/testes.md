@@ -5,6 +5,7 @@ description = "Todo arquivo de testes deve ter o sufixo `_test.go` para o `go te
 funções devem ter a assinatura `func Test...(t *testing.T)` para serem consideradas testes."
 tags = ["Golang"]
 +++
+
 # Testes
 
 Todo arquivo de testes deve ter o sufixo `_test.go` para o `go test` (ferramenta do go pra executar testes) enxergar o arquivo e suas

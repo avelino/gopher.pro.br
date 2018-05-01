@@ -4,6 +4,7 @@ date = "2017-10-12T21:38:44-03:00"
 description = "beanstalk é um servidor de filas bastante estável e rápido, e o melhor de tudo, com uma API fácil de conectar com suporte a Go."
 tags = ["Golang"]
 +++
+
 # beanstalk
 
 beanstalk é um servidor de filas bastante estável e rápido, e o melhor de tudo, com uma API fácil de conectar com suporte a Go.

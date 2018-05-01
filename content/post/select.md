@@ -4,6 +4,7 @@ date = "2016-11-11T17:00:21-05:00"
 description = "Select trabalha junto com canais para esperar retornos de canais específicos."
 tags = ["Golang"]
 +++
+
 # select
 
 Select trabalha junto com canais para esperar retornos de canais específicos.

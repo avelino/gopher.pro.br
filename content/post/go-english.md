@@ -4,6 +4,7 @@ date = "2018-03-09T15:53:30-03:00"
 description = "Go English é a versão em Go do zzenglish."
 tags = ["Golang"]
 +++
+
 # Go English
 
 Go English é a versão em Go do zzenglish.

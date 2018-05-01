@@ -4,6 +4,7 @@ date = "2016-11-11T17:00:21-05:00"
 description = "Go tem um sistema de multitarefa leve e bastante poderoso e simples de usar. Basicamente você só precisa usar a clausula go na frente da função."
 tags = ["Golang"]
 +++
+
 # Goroutines
 
 Go tem um sistema de multitarefa leve e bastante poderoso e simples de usar. Basicamente você só precisa usar a clausula go na frente da função.

@@ -4,6 +4,7 @@ date = "2017-09-23T18:34:49-03:00"
 description = "Exemplos simples de contexto"
 tags = ["Golang"]
 +++
+
 # context
 
 Exemplos simples de contexto

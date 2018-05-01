@@ -1,13 +1,13 @@
 +++
-title = "Integração com C++"
+title = "Integração com CPP"
 date = "2016-10-12T16:52:34-03:00"
-description = "Exemplo de como criar um package que faz wrap de uma classe C++
-"
+description = "Exemplo de como criar um package que faz wrap de uma classe CPP"
 tags = ["Golang"]
 +++
-# Integração com C++
 
-Exemplo de como criar um package que faz wrap de uma classe C++
+# Integração com CPP
+
+Exemplo de como criar um package que faz wrap de uma classe CPP
 
 ## Arquivos desse post:
 

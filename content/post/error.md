@@ -4,6 +4,7 @@ date = "2016-11-11T17:00:21-05:00"
 description = "Go tem um sistema muito parecido com C de tratamento de erros."
 tags = ["Golang"]
 +++
+
 # error
 
 Go tem um sistema muito parecido com C de tratamento de erros.

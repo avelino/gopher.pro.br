@@ -4,6 +4,7 @@ date = "2016-11-11T17:00:21-05:00"
 description = "Um exemplo simples listando as interfaces de rede."
 tags = ["Golang"]
 +++
+
 # net Listando Interfaces e IPs
 
 Um exemplo simples listando as interfaces de rede.

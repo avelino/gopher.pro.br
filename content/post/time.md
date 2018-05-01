@@ -4,6 +4,7 @@ date = "2016-11-11T17:00:21-05:00"
 description = "Go tem uma forma... peculiar de formatar datas, e é simplesmente terrível!"
 tags = ["Golang"]
 +++
+
 # time
 
 Go tem uma forma... peculiar de formatar datas, e é simplesmente terrível!

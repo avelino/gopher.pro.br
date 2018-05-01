@@ -1,13 +1,13 @@
 +++
 title = "Exemplos de Go + Lua"
 date = "2017-09-07T20:59:57-03:00"
-description = "``` 
-go get github.com/yuin/gopher-lua
-```
-"
+description = "Lua é uma ótima linguagem e combina perfeitamente como uma linguagem de script para ajudar nos seus projetos com Go"
 tags = ["Golang"]
 +++
+
 # Exemplos de Go + Lua
+
+Lua é uma ótima linguagem e combina perfeitamente como uma linguagem de script para ajudar nos seus projetos com Go
 
 ``` 
 go get github.com/yuin/gopher-lua

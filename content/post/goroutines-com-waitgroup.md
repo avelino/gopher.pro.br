@@ -4,6 +4,7 @@ date = "2016-11-11T17:00:21-05:00"
 description = "Para auxiliar no controle de diversos jobs simultâneos,independentes e ainda com resultados sincronizados podemos lançar mão da WaitGroup."
 tags = ["Golang"]
 +++
+
 # Goroutines com WaitGroup
 
 Para auxiliar no controle de diversos jobs simultâneos,independentes e ainda com resultados sincronizados podemos lançar mão da WaitGroup.
