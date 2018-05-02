@@ -2,7 +2,7 @@
 title = "Valente WebSockets"
 description = "Valente, WebSockets, Hangout do grupo de estudos de Go 2017-04-28"
 tags = ["Golang"]
-date = "2017-04-28 07:11:11 +0000 UTC"
+date = "2017-04-28T07:11:11Z"
 +++
 
 {{< youtube dZ-g6QrPegM >}}

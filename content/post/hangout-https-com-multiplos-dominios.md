@@ -2,7 +2,7 @@
 title = "HTTPS com múltiplos domínios"
 description = "HTTPS com múltiplos domínios, Hangout do grupo de estudos de Go 2018-04-05"
 tags = ["Golang"]
-date = "2018-04-06 02:23:41 +0000 UTC"
+date = "2018-04-06T02:23:41Z"
 +++
 
 {{< youtube gp7g2Q6JKLw >}}

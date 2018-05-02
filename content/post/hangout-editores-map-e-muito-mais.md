@@ -2,7 +2,7 @@
 title = "editores map e muito mais"
 description = "editores, map, e muito mais, Hangout do grupo de estudos de Go 2017-07-06"
 tags = ["Golang"]
-date = "2017-07-07 06:39:05 +0000 UTC"
+date = "2017-07-07T06:39:05Z"
 +++
 
 {{< youtube cHrVXvJFYRc >}}

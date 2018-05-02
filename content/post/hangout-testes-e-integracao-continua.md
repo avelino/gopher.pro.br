@@ -2,7 +2,7 @@
 title = "testes e integração continua"
 description = "testes e integração continua, Hangout do grupo de estudos de Go 2017-06-29"
 tags = ["Golang"]
-date = "2017-06-30 08:11:25 +0000 UTC"
+date = "2017-06-30T08:11:25Z"
 +++
 
 {{< youtube -ox6SKvSAQo >}}

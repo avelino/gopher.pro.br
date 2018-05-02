@@ -2,7 +2,7 @@
 title = "packages flag goConfig analisador léxico"
 description = "packages, flag, goConfig, analisador léxico, Hangout do grupo de estudos de Go 2017-03-02"
 tags = ["Golang"]
-date = "2017-03-03 05:12:40 +0000 UTC"
+date = "2017-03-03T05:12:40Z"
 +++
 
 {{< youtube E9bnReO7IMo >}}

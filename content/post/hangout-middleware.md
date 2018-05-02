@@ -2,7 +2,7 @@
 title = "Middleware"
 description = "Middleware, Hangout do grupo de estudos de Go 2018-04-12"
 tags = ["Golang"]
-date = "2018-04-13 03:08:49 +0000 UTC"
+date = "2018-04-13T03:08:49Z"
 +++
 
 {{< youtube bcxFNdkjoMw >}}

@@ -2,7 +2,7 @@
 title = "goConfig godoc format"
 description = "goConfig, godoc, format, Hangout do grupo de estudos de Go 2017-03-23"
 tags = ["Golang"]
-date = "2017-03-24 04:09:56 +0000 UTC"
+date = "2017-03-24T04:09:56Z"
 +++
 
 {{< youtube 1pELvQLu1f8 >}}

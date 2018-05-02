@@ -2,7 +2,7 @@
 title = "Testes Polimorfismo Otimização e muito mais"
 description = "Testes, Polimorfismo, Otimização, e muito mais, Hangout do grupo de estudos de Go 2017-07-20"
 tags = ["Golang"]
-date = "2017-07-21 07:40:34 +0000 UTC"
+date = "2017-07-21T07:40:34Z"
 +++
 
 {{< youtube UEetodHInzE >}}

@@ -2,7 +2,7 @@
 title = "beanstalk com Go"
 description = "beanstalk com Go, Hangout do grupo de estudos de Go 2017-10-12"
 tags = ["Golang"]
-date = "2017-10-13 03:36:00 +0000 UTC"
+date = "2017-10-13T03:36:00Z"
 +++
 
 {{< youtube oeMrXdvqedU >}}

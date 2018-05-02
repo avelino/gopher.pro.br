@@ -2,7 +2,7 @@
 title = "Brincando com Wikipedia e Go"
 description = "Brincando com Wikipedia e Go, Hangout do grupo de estudos de Go 2017-10-26"
 tags = ["Golang"]
-date = "2017-10-27 03:33:14 +0000 UTC"
+date = "2017-10-27T03:33:14Z"
 +++
 
 {{< youtube eP_RotjzsNY >}}

@@ -2,7 +2,7 @@
 title = "Canais slices e biblioteca gráfica Ebiten"
 description = "Canais, slices e biblioteca gráfica Ebiten, Hangout do grupo de estudos de Go 2017-04-06"
 tags = ["Golang"]
-date = "2017-04-07 04:59:44 +0000 UTC"
+date = "2017-04-07T04:59:44Z"
 +++
 
 {{< youtube pHptm31g3pM >}}

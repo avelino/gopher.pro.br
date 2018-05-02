@@ -2,7 +2,7 @@
 title = "sync.Once"
 description = "sync.Once, Hangout do grupo de estudos de Go 2018-02-01"
 tags = ["Golang"]
-date = "2018-02-02 09:46:52 +0000 UTC"
+date = "2018-02-02T09:46:52Z"
 +++
 
 {{< youtube KDlPMr44I2k >}}

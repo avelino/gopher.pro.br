@@ -2,7 +2,7 @@
 title = "switch gofn Roy"
 description = "switch, gofn, Roy, Hangout do grupo de estudos de Go 2017-05-11"
 tags = ["Golang"]
-date = "2017-05-12 01:50:04 +0000 UTC"
+date = "2017-05-12T01:50:04Z"
 +++
 
 {{< youtube J6TR-vO2WBE >}}

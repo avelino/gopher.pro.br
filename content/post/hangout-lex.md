@@ -2,7 +2,7 @@
 title = "lex"
 description = "lex, Hangout do grupo de estudos de Go 2017-08-10"
 tags = ["Golang"]
-date = "2017-08-11 09:27:57 +0000 UTC"
+date = "2017-08-11T09:27:57Z"
 +++
 
 {{< youtube VxxhfbOk3CI >}}

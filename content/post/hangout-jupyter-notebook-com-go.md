@@ -2,7 +2,7 @@
 title = "Jupyter Notebook com Go"
 description = "Jupyter Notebook com Go, Hangout do grupo de estudos de Go 2018-04-19"
 tags = ["Golang"]
-date = "2018-04-20 03:26:47 +0000 UTC"
+date = "2018-04-20T03:26:47Z"
 +++
 
 {{< youtube HluswH8r268 >}}

@@ -2,7 +2,7 @@
 title = "gofn pREST goConfig e mais"
 description = "gofn, pREST, goConfig, e mais; Hangout do grupo de estudos de Go 2017-02-23"
 tags = ["Golang"]
-date = "2017-02-24 06:21:03 +0000 UTC"
+date = "2017-02-24T06:21:03Z"
 +++
 
 {{< youtube S1b8H7WPYe0 >}}

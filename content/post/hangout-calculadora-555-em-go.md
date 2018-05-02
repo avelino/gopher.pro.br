@@ -2,7 +2,7 @@
 title = "Calculadora 555 em Go"
 description = "Calculadora 555 em Go, Hangout do grupo de estudos de Go 2017-09-28"
 tags = ["Golang"]
-date = "2017-09-29 07:22:36 +0000 UTC"
+date = "2017-09-29T07:22:36Z"
 +++
 
 {{< youtube bjDYZRFTsMs >}}

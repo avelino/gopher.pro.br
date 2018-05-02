@@ -2,7 +2,7 @@
 title = "Prim's Algorithm"
 description = "Prim's Algorithm, Hangout do grupo de estudos de Go 2017-04-13"
 tags = ["Golang"]
-date = "2017-04-14 06:12:21 +0000 UTC"
+date = "2017-04-14T06:12:21Z"
 +++
 
 {{< youtube zmwXFoEnj7s >}}

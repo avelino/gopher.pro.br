@@ -2,7 +2,7 @@
 title = "histograma e entropia"
 description = "histograma e entropia, Hangout do grupo de estudos de Go 2017-12-14"
 tags = ["Golang"]
-date = "2017-12-15 02:40:24 +0000 UTC"
+date = "2017-12-15T02:40:24Z"
 +++
 
 {{< youtube FTAe07ZNBXg >}}

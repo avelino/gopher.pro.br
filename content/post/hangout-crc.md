@@ -2,7 +2,7 @@
 title = "CRC"
 description = "CRC, Hangout do grupo de estudos de Go 2017-09-14"
 tags = ["Golang"]
-date = "2017-09-15 03:12:19 +0000 UTC"
+date = "2017-09-15T03:12:19Z"
 +++
 
 {{< youtube NS4NR3isDeQ >}}

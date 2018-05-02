@@ -2,7 +2,7 @@
 title = "Novo repo e tests"
 description = "Novo repo e tests, Hangout do grupo de estudos de Go 2018-02-22"
 tags = ["Golang"]
-date = "2018-02-23 03:41:51 +0000 UTC"
+date = "2018-02-23T03:41:51Z"
 +++
 
 {{< youtube opPvMXlaSQY >}}

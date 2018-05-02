@@ -2,7 +2,7 @@
 title = "rumlang gosidekick"
 description = "rumlang, gosidekick, Hangout do grupo de estudos de Go 2017-12-28"
 tags = ["Golang"]
-date = "2017-12-29 02:30:21 +0000 UTC"
+date = "2017-12-29T02:30:21Z"
 +++
 
 {{< youtube KdKDHZ3CHJ0 >}}

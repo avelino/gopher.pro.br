@@ -2,7 +2,7 @@
 title = "defer e close"
 description = "defer e close, Hangout do grupo de estudos de Go 2017-06-22"
 tags = ["Golang"]
-date = "2017-06-23 06:45:14 +0000 UTC"
+date = "2017-06-23T06:45:14Z"
 +++
 
 {{< youtube hMKFT_0rKHM >}}

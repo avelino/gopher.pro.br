@@ -2,7 +2,7 @@
 title = "context"
 description = "context, Hangout do grupo de estudos de Go 2017-07-27"
 tags = ["Golang"]
-date = "2017-07-28 09:50:14 +0000 UTC"
+date = "2017-07-28T09:50:14Z"
 +++
 
 {{< youtube h9wY_hSfMWE >}}

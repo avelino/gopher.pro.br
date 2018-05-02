@@ -2,7 +2,7 @@
 title = "XML e Pizza"
 description = "XML e Pizza, Hangout do grupo de estudos de Go 2018-04-26"
 tags = ["Golang"]
-date = "2018-04-27 02:36:53 +0000 UTC"
+date = "2018-04-27T02:36:53Z"
 +++
 
 {{< youtube 3p0421uL50M >}}

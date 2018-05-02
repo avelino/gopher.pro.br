@@ -2,7 +2,7 @@
 title = "GopherCon Go2.0 e muito mais"
 description = "GopherCon, Go2.0, e muito mais, Hangout do grupo de estudos de Go 2017-07-13"
 tags = ["Golang"]
-date = "2017-07-14 09:57:01 +0000 UTC"
+date = "2017-07-14T09:57:01Z"
 +++
 
 {{< youtube UWgT46y4Qhw >}}
