@@ -1,5 +1,5 @@
 +++
-title = "beanstalk com Go"
+title = "Gerando posts do HUGO via Go"
 description = "Gerando posts do HUGO via Go, Hangout do grupo de estudos de Go 2018-05-03"
 tags = ["Golang"]
 date = "2018-05-02T01:44:00Z"
