@@ -1,5 +1,5 @@
 +++
-title = "HasSuffix"
+title = "HasPrefix"
 description = "HasSuffix, Hangout do grupo de estudos de Go 2018-05-17"
 tags = ["Golang"]
 date = "2018-05-17T06:45:14Z"
