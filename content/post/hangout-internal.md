@@ -24,4 +24,4 @@ https://www.youtube.com/channel/UCI39wKG8GQnuzFPN5SM55qw
 Variable models in Go:
 https://standupdev.com/wiki/doku.php?id=variable_models_in_go
 
-Nossos encontros ocorrem todas as quintas-feiras as 22h00, para participar entre no canal de Go no slack https://invite.slack.golangbridge.org/ e procure por #brazilian-go-studies
+Nossos encontros ocorrem todas as quintas-feiras ás 22h00, para participar entre no canal de Go no slack https://invite.slack.golangbridge.org/ e procure por #brazilian-go-studies

@@ -25,4 +25,4 @@ https://github.com/go-br/estudos/tree/master/beanstalk
 Go Hands On:
 https://github.com/go-br/estudos
 
-Nossos encontros ocorrem todas as quintas-feiras as 22h00, para participar entre no canal de Go no slack https://invite.slack.golangbridge.org/ e procure por #brazilian-go-studies
+Nossos encontros ocorrem todas as quintas-feiras ás 22h00, para participar entre no canal de Go no slack https://invite.slack.golangbridge.org/ e procure por #brazilian-go-studies

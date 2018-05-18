@@ -11,7 +11,7 @@ title = "Sobre"
 - Vá aos [Meetups da comunidade brasileira](https://www.meetup.com/pt-BR/golangbr/)
 
 ### Grupo de estudos
-- Todas as quintas-feiras as 22h00 um grupo programadores faz um hangout para estudar Go e bater papo os encontros e o tema da semana são combinados no #brazilian-go-studies.
+- Todas as quintas-feiras ás 22h00 um grupo programadores faz um hangout para estudar Go e bater papo os encontros e o tema da semana são combinados no #brazilian-go-studies.
 
 - Pagina no Facebook [https://www.facebook.com/gopher.pro.br/](https://www.facebook.com/gopher.pro.br/)
 

@@ -24,4 +24,4 @@ https://www.youtube.com/watch?v=sbrZfPgNmfw
 goconfig:
 https://github.com/crgimenes/goconfig
 
-Nossos encontros ocorrem todas as quintas-feiras as 22h00, para participar entre no canal de Go no slack https://invite.slack.golangbridge.org/ e procure por #brazilian-go-studies
+Nossos encontros ocorrem todas as quintas-feiras ás 22h00, para participar entre no canal de Go no slack https://invite.slack.golangbridge.org/ e procure por #brazilian-go-studies

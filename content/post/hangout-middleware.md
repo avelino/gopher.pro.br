@@ -31,4 +31,4 @@ https://github.com/nats-io/gnatsd
 gokrazy kernel+go para Raspberry Pi 3
 https://gokrazy.org/
 
-Nossos encontros ocorrem todas as quintas-feiras as 22h00, para participar entre no canal de Go no slack https://invite.slack.golangbridge.org/ e procure por #brazil
+Nossos encontros ocorrem todas as quintas-feiras ás 22h00, para participar entre no canal de Go no slack https://invite.slack.golangbridge.org/ e procure por #brazil
