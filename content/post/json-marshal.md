@@ -9,11 +9,11 @@ date = "2018-05-18T06:45:14Z"
 
 # Algumas dicas rápidas para usar `json.Marshal`
 
-- Os campos da struct que você quer fazer marshal precisam ser declarados com a primeira letra maiúscula ou seja precisam ser `public`, caso contrario a função `Marshal` não consegue encontrar os campos.
-- O retorno de `json.Marshal` é um array de bytes, para converter para string basta fazer cast usando `string(nomeDoVetor)`.
-- É uma boa pratica usar os nomes dos campos quando for popular a struct.
+- Os campos da _struct_ que você quer colocar dentro do JSON, ou seja, "fazer o Marshal", precisam ser declarados com a primeira letra maiúscula tornando esses campos públicos, caso contrário a função _Marshal_ não consegue encontrar os campos.
+- O retorno de `json.Marshal` é um _array_ de bytes, para converter para string basta fazer _cast_ (forçar a conversão) usando `string(nomeDoVetor)`.
+- É uma boa prática usar os nomes dos campos quando for popular a _struct_.
 
-## Veja o exemplo
+Um exemplo de código "fazendo Marshal" de um _struct_ para JSON:
 
 ```go
 package main
@@ -43,8 +43,10 @@ func main() {
 
 [Você pode testar esse exemplo no Go Playground](https://play.golang.org/p/C3jLqXxjYiN)
 
+---
+
 # Links úteis
 
 - [Blog da Jessica Temporal](http://jtemporal.com/) onde você pode encontrar mais exemplos e posts interessantes.
 - [Repositório do nosso grupo](https://github.com/go-br/estudos)
-- [E você encontra mais exemplos aqui](https://github.com/go-br)
+- [E você encontra mais exemplos no repositório do grupo de estudos no GitHub](https://github.com/go-br)
