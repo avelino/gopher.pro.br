@@ -14,7 +14,7 @@ Hoje falamos de como usar as _build tags_ para fazer compilação condicional em
 
 Links mencionados, alguns foram mencionados fora da gravação:
 
-- [Exemplo de build tags no grupo de estudos](https://github.com/go-br/estudos/build_tags)
+- [Exemplo de build tags no grupo de estudos](https://github.com/go-br/estudos/tree/master/build_tags)
 - [Documentação do pacote build](https://golang.org/pkg/go/build/)
 - [Go advanced testing tips & tricks](https://medium.com/@povilasve/go-advanced-tips-tricks-a872503ac859)
 - [Using Go’s build constraint tag to help build mock services for service testing](https://medium.com/dtoebe/using-gos-build-constraint-tag-to-help-build-mock-services-for-service-testing-b246e39d8a81)
