@@ -8,6 +8,7 @@ canonifyurls = true
 paginate = 20
 theme = "blackburn"
 enableRobotsTXT = true
+googleAnalytics = "UA-119865485-1"
 
 [params]
 	locale = "pt-BR"
@@ -19,6 +20,7 @@ enableRobotsTXT = true
 	highlightjs = "default"
 	dateFormat = "2006-01-02"
 	description = "Grupo de estudos de Golang, exemplos, vídeos, aulas, artigos e muito código. Uma comunidade aberta inclusiva e focada na linguagem de programação Go"
+	googleAnalytics = "UA-80761879-1"
 
 [indexes]
 	category = "categorias"
