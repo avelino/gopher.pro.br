@@ -9,7 +9,7 @@ date = "2018-07-05T06:45:14Z"
 
 # Como carregar containers Docker usando gofn
 
-![GitHub Logo](https://raw.githubusercontent.com/gofn/gofn/master/docs/assets/logo.png)
+![GitHub Logo](https://raw.githubusercontent.com/gofn/gofn/master/docs/assets/logo.png =250x250)
 
 Primeiro instanciamos a struct BuildOptions que vai informar para o gofn os detalhes do container como o nome da imagem por exemplo.
 
