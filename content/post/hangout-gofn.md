@@ -9,7 +9,7 @@ date = "2018-07-05T06:45:14Z"
 
 # Como carregar containers Docker usando gofn
 
-![GitHub Logo](https://raw.githubusercontent.com/gofn/gofn/master/docs/assets/logo.png =250x250)
+[![gofn](gofn.png)](https://github.com/gofn/gofn)
 
 Primeiro instanciamos a struct BuildOptions que vai informar para o gofn os detalhes do container como o nome da imagem por exemplo.
 
@@ -49,8 +49,10 @@ cancelFunc()
 
 Links mencionados, alguns foram mencionados fora da gravação:
 
-- [Código fonte de hoje](https://play.golang.org/p/LGj23boK-SO)
+- [Código fonte de hoje](https://github.com/crgimenes/gofn-example)
+- [Repositório do gofn](https://github.com/gofn/gofn)
 - [Repositório do nosso grupo](https://github.com/go-br/estudos)
 - [E você encontra mais exemplos aqui](https://github.com/go-br)
+- [Pagina do grupo de estudos](https://gopher.pro.br)
 
 Nossos encontros ocorrem todas as quintas-feiras ás 22h00, para participar [entre no canal de Go no slack](https://invite.slack.golangbridge.org/) e procure por #brazil
