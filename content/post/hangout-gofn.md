@@ -47,6 +47,36 @@ Por fim como criamos uma função cancel devido ao nosso contexto de timeout sem
 cancelFunc()
 ```
 
+## O container
+
+É bem simples fazer containers docker para usar com gofn, basicamente tudo que você faz com um container normal vai funcionar, geralmente preferimos mandar e receber informações via stdin, sdtout e stderr porque é uma forma simples e fácil de modificar.
+
+Esse é um exemplo bem simples usando Clojure:
+
+```clojure
+(ns runner.core
+  (:gen-class))
+
+(defn upper []
+  (print (clojure.string/upper-case (slurp *in*)))
+  (flush))
+
+(defn -main []
+  (upper))
+```
+
+E agora um exemplo usando Python:
+
+```python
+import sys
+import json
+import base64
+
+d = json.load(sys.stdin)
+d["encoded"] = base64.b64encode(d["phrase"].encode('utf-8')).decode('utf-8')
+json.dump(d, sys.stdout, ensure_ascii=False)
+```
+
 Links mencionados, alguns foram mencionados fora da gravação:
 
 - [Código fonte de hoje](https://github.com/crgimenes/gofn-example)
